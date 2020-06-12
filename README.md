@@ -1,7 +1,7 @@
 # B860H_GILZ_R.1.1
 FRIMWARE B860H BY GILZ RE-DEVELOP
 
-hangelog Update
+Changelog Update
 ================
 - Developer option android auto active
 - Auto set animation fast 0.33
