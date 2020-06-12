@@ -1,6 +1,8 @@
 # B860H_GILZ_R.1.1
 FRIMWARE B860H BY GILZ RE-DEVELOP
 
+https://www32.zippyshare.com/d/zZ1ofhO4/30431/GILZ_R1.1_B860H_10052020.rar
+
 Changelog Update
 ================
 - Developer option android auto active
@@ -26,6 +28,7 @@ Changelog Update
 
   Flash STB
 =============
+
 1. Connect STB ke laptop (Tahan tombol power, lalu tancap kabel usb to usb sampai notif sound bunyi pada laptop)
 2. Matikan antivirus sementara
 3. Jalankan aplikasi FLASH
