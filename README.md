@@ -1,7 +1,7 @@
 # B860H_GILZ_R.1.1
 FRIMWARE B860H BY GILZ RE-DEVELOP
 
-https://www32.zippyshare.com/d/zZ1ofhO4/30431/GILZ_R1.1_B860H_10052020.rar
+https://cutt.ly/GILZ_R-1-1_B860H
 
 Changelog Update
 ================
