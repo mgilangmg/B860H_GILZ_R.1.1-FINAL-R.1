@@ -1,6 +1,7 @@
 # B860H_GILZ_R.1.1
 FRIMWARE B860H BY GILZ RE-DEVELOP
 
+Download frimware from this link 
 https://cutt.ly/GILZ_R-1-1_B860H
 
 Changelog Update
@@ -17,8 +18,8 @@ Changelog Update
 - Fix webview 
 - Optional install/unistall google play with menu on terminal (google play installed by default)
 - Add simple menu on terminal ("su" enter, "menu" enter)
-  a. unistall or install google play
-  b. install or unistall auto clear cache cleaner
+- unistall or install google play
+- Install or unistall auto clear cache cleaner
 - Semi adblock host by Adaway installed
 - Auto setup config dolby audio
 - Auto setup android assistant clear cache ram at background
@@ -26,9 +27,8 @@ Changelog Update
 - Add Browser app
 - Add Dutafilm app
 
-  Flash STB
+Flash STB
 =============
-
 1. Connect STB ke laptop (Tahan tombol power, lalu tancap kabel usb to usb sampai notif sound bunyi pada laptop)
 2. Matikan antivirus sementara
 3. Jalankan aplikasi FLASH
@@ -42,7 +42,7 @@ Changelog Update
 12. Pilih 3 (flash system) proses sampai selesai
 13. Cabut STB dari pc, dan connect ke tv
 
-  After flash
+After flash
 ===============
 1. Klik Activation
 2. Ketik "su" pada emulator
