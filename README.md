@@ -5,7 +5,7 @@ Download frimware from this link
 https://cutt.ly/GILZ_R-1-1_B860H
 
 Screenshoot on this link 
-https://imgur.com/K5n8zv3
+https://imgur.com/a/8AYI8WT
 
 Changelog Update
 ================
