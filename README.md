@@ -21,7 +21,7 @@ Changelog Update
 - Fix webview 
 - Optional install/unistall google play with menu on terminal (google play installed by default)
 - Add simple menu on terminal ("su" enter, "menu" enter)
-- unistall or install google play
+- Unistall or install google play
 - Install or unistall auto clear cache cleaner
 - Semi adblock host by Adaway installed
 - Auto setup config dolby audio
