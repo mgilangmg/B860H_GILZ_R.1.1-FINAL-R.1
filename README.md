@@ -4,6 +4,9 @@ FRIMWARE B860H BY GILZ RE-DEVELOP
 Download frimware from this link 
 https://cutt.ly/GILZ_R-1-1_B860H
 
+Screenshoot on this link 
+https://imgur.com/K5n8zv3
+
 Changelog Update
 ================
 - Developer option android auto active
