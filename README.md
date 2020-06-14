@@ -2,7 +2,7 @@
 FRIMWARE B860H BY GILZ RE-DEVELOP
 
 Download frimware from this link 
-https://cutt.ly/GILZ_R-1-1_B860H
+http://www.mediafire.com/file/lm7mepxfzg0jzem/B860H_GILZ_R.1.1.exe
 
 Screenshoot on this link 
 https://imgur.com/a/8AYI8WT
@@ -32,27 +32,22 @@ Changelog Update
 
 Flash STB
 =============
-1. Connect STB ke laptop (Tahan tombol power, lalu tancap kabel usb to usb sampai notif sound bunyi pada laptop)
-2. Matikan antivirus sementara
-3. Jalankan aplikasi FLASH
-4. Pilih 1 jika belum instal driver
-5. Lanjut scan device pilih nomor 2
-7. Lanjut pilih nomor 3 Enable Selinux
-8. Lanjut pilih nomor 5 Erase Data STB
-9. Lanjut pilih huruf f untuk melanjutkan flash
-10. Pilih 1 (flash boot) proses sampai selesai
-11. Pilih 2 (flash logo) proses sampai selesai
-12. Pilih 3 (flash system) proses sampai selesai
-13. Cabut STB dari pc, dan connect ke tv
+1. Matikan antivirus sementara
+2. Connect STB ke laptop (Tahan tombol power, lalu tancap kabel usb to usb sampai notif sound bunyi pada laptop)
+3. Jalankan aplikasi GILZ B860H R.1.1.exe
+4. Lanjut cehck device connection pilih nomor 1
+5. Lanjut pilih nomor 2 untuk melakukan flash
+6. Tunggu flahsing sampai selesai
+7. Cabut STB dari pc, dan connect ke tv
 
 After flash
 ===============
-1. Klik Activation
-2. Ketik "su" pada emulator
-3. Beri izin akses root
-4. Ketik "register"
-5. Isi username sesuai selera (minimal 8 karakter)
-6. Ketik kode aktivasi (kode aktivasi didapatkan dengan cara PM w.a +6282284351277 "FREE")
+1. Klik Activate
+2. Ketik "su" pada emulator lalu enter
+3. Beri izin akses root "ijinkan/grant"
+4. Ketik "register" lalu enter
+5. Isi username sesuai selera (maksimal 8 karakter)
+6. Ketik kode aktivasi device (kode aktivasi didapatkan dengan cara PM w.a +6282284351277 "FREE")
 7. Setelah selesai configurasi, STB akan reboot dengan sendirinya
 8. OK STB siap dipakai
 
