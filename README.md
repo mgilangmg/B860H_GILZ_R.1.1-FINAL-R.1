@@ -2,7 +2,7 @@
 FRIMWARE B860H BY GILZ RE-DEVELOP
 
 Download frimware from this link 
-http://www.mediafire.com/file/lm7mepxfzg0jzem/B860H_GILZ_R.1.1.exe
+http://www.mediafire.com/file/9p5c80387qft4i5/GILZ_B860H_R.1.1.zip
 
 Screenshoot on this link 
 https://imgur.com/a/8AYI8WT
@@ -40,7 +40,7 @@ Flash STB
 6. Tunggu flahsing sampai selesai
 7. Cabut STB dari pc, dan connect ke tv
 
-After flash
+After Flash
 ===============
 1. Klik Activate
 2. Ketik "su" pada emulator lalu enter
