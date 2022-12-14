@@ -54,3 +54,5 @@ After Flash
 
 @COPYRIGHT GILZTV 2020
 SANTUYBRO ...
+
+// SPDX-License-Identifier: GPL-2.0-only
